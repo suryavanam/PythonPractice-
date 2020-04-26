@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "venv\\Scripts\\python.exe",
+    "editor.formatOnSave": true,
+    "window.zoomLevel": 3,
+    "workbench.colorTheme": "Predawn",
+    "workbench.iconTheme": "ayu"
+}

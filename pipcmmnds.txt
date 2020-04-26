@@ -1,0 +1,9 @@
+pipenv lock
+pipenv --ignore-pipfile
+pipenv check
+pipenv -install pytest --dev
+python -m venv projec_venv /to create new virtual env.
+pip freeze /to list the packages\
+pip install -r requirements.txt
+python -m venv venv --system-site-packages
+pip list --local
